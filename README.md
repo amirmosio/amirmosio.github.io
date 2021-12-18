@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Installing SonarQube for python on wsl/windows
 
-You can use the [editor on GitHub](https://github.com/amirmosio/amirmosio.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can use [this link](https://docs.docker.com/desktop/windows/install/) to download latest version of docker desktop.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Remember to check **Install required Windows components for WSL 2** while installing.
 
 ### Markdown
 
