@@ -59,4 +59,8 @@ To create a SonarQube token just head to SonarQube server URL, which you previou
 After some point, if you see SonarScanner stuck on a line, probably it means you should
 exclude more uneeded files.
 
-After that sonar-scanner configuration is done and you should be able to scan your code via **sonar-scanner** command in your project root directory. It may take a while and after that, you should wait for its processing task in **background task** in the SonarQube server. After that head to your SonarQube URL again, click on the project that appeared in the projects tab. That's it.
+After that sonar-scanner configuration is done and you should be able to scan your code via **sonar-scanner** command in your project root directory.
+```markdown
+sonar-scanner
+```
+It may take a while and after that, you should wait for its processing task in **background task** in the SonarQube server. After that head to your SonarQube URL again, click on the project that appeared in the projects tab. That's it.
