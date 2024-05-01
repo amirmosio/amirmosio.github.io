@@ -9,10 +9,5 @@
 ### Other
 ---
 
-<div align = center>
+<a href="/guids/SonarQube_on_WSL.md" target="_blank"><button>SonarQube on WSL?</button></a>
 
- [<kbd> <br> SonarQube on WSL? <br> </kbd>][KBD]
-
-</div>
-
-[KBD]: /guids/SonarQube_on_WSL.md
