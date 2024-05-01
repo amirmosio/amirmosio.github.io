@@ -1,3 +1,9 @@
+---
+title: SonarQube on WSL
+layout: template
+filename: sonarqube_on_wsl.md
+--- 
+
 ## Installing SonarQube for python on WSL/Windows
 
 ### Installing docker desktop

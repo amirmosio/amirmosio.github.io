@@ -8,6 +8,4 @@
 
 ### Other
 ---
-
-<a href="/guids/SonarQube_on_WSL.md" target="_blank"><button>SonarQube on WSL?</button></a>
-
+[SonarQube on WSL?](guids/sonarqube_on_wsl.md)
