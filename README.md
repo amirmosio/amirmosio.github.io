@@ -1,6 +1,7 @@
 # About Me
 
-![me](assets/img/me.jpg "Me")
+
+<img src="assets/img/me.jpg" height="auto" width="250" style="border-radius:50%">
 
 ## Contact
  - My full name is Amir Hossein Mohsen Nezhad Baravati
