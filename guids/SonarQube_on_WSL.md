@@ -1,6 +1,6 @@
 ---
 title: SonarQube on WSL
-layout: jekyll-theme-cayman
+layout: default
 filename: SonarQube_on_WSL.md
 --- 
 
