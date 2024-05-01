@@ -1,10 +1,12 @@
 # About Me
 
+![me](assets/img/me.jpg "Me")
+
 ## Contact
- - I'm Amir Hossein Mohsen Nezhad Baravati :)
+ - My full name is Amir Hossein Mohsen Nezhad Baravati
  - Gmail: amir.mn.mosio@gmail.com
  - Mobile Phone: +39 379 143 4666
-
+ - Telegram Account: [@amirmosio](https://t.me/amirmosio)
 
 ### Other
 ---
