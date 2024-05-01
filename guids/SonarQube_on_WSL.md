@@ -1,7 +1,7 @@
 ---
 title: SonarQube on WSL
 layout: template
-filename: sonarqube_on_wsl.md
+filename: SonarQube_on_WSL.md
 --- 
 
 ## Installing SonarQube for python on WSL/Windows
