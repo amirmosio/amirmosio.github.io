@@ -1,13 +1,14 @@
-## About Me
+# About Me
 
-# Contact
+## Contact
  - I'm Amir Hossein Mohsen Nezhad Baravati :)
  - Gmail: amir.mn.mosio@gmail.com
  - Mobile Phone: +39 379 143 4666
 
 
-# Other
+### Other
 ---
+
 <div align = center>
 
  [<kbd> <br> SonarQube on WSL? <br> </kbd>][KBD]
