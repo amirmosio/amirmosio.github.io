@@ -14,7 +14,7 @@ Curriculum Vitae: [download](CV%20-%20Amir%20Hossein%20Mohsen%20Nezhad.pdf)
 
 ### Neural Network
 ---
-[Thyroid Carcinama Diagnosis?](https://github.com/amirmosio/Thyroid-Project-Using-DL)
+[Thyroid Carcinoma Diagnosis?](https://github.com/amirmosio/Thyroid-Project-Using-DL)
 
 [My Bachelor's Thesis?](https://github.com/amirmosio/thyroid_thesis)
 
