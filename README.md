@@ -25,9 +25,9 @@ Curriculum Vitae: [download](CV%20-%20Amir%20Hossein%20Mohsen%20Nezhad.pdf)
 ---
 [A Good One, Flutter Map OpenStreen supported by flutter web?](https://github.com/amirmosio/flutter_map_open_street)
 
-[Looking for a smiple data table supported even by flutter web?](https://github.com/amirmosio/data_table_2)
+[Looking for a smiple data table?](https://github.com/amirmosio/data_table_2)
 
-[If You Want to See Some Spagetti Code, Here is My First Project in Flutter in Bachelor.](https://github.com/amirmosio/eplan_front)
+[If You Want to See Some Spagetti Code, Here is My First Project in Flutter, sigh... good old days](https://github.com/amirmosio/eplan_front)
 
 ### Other
 ---
