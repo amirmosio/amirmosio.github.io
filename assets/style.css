@@ -128,12 +128,11 @@ strong { color: var(--ink); }
   align-self: end;
 }
 .portrait {
-  width: 168px; height: 168px; border-radius: 50%; overflow: hidden;
+  width: 184px; height: 184px; border-radius: 50%; overflow: hidden;
   border: 1px solid var(--line);
   box-shadow: var(--shadow);
-  transform: rotate(-2deg);
 }
-.portrait img { width: 100%; height: 100%; object-fit: cover; object-position: 50% 18%; }
+.portrait img { width: 100%; height: 100%; object-fit: cover; object-position: 50% 0%; }
 
 .hero__blurb {
   font-family: var(--serif);
