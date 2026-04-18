@@ -133,7 +133,7 @@ strong { color: var(--ink); }
   box-shadow: var(--shadow);
   transform: rotate(-2deg);
 }
-.portrait img { width: 100%; height: 100%; object-fit: cover; }
+.portrait img { width: 100%; height: 100%; object-fit: cover; object-position: 50% 18%; }
 
 .hero__blurb {
   font-family: var(--serif);
